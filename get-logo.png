@@ -1,0 +1,1 @@
+https://techacademy.s3.amazonaws.com/training/github/basic/git-logo.png
